@@ -1,6 +1,6 @@
 cask "writeless" do
-  version "1.0.7"
-  sha256 "949120c8169b59013102c587e7e33500aeef9357d2220e6bcea27242f69a74c6"
+  version "1.0.8"
+  sha256 "cce3cc2a8cbe897b6b23bd218c178c7cdac99c0df80de51c50bad32d535caa65"
 
   url "https://github.com/romus/writeless/releases/download/v#{version}/WriteLess-#{version}.zip"
   name "Write Less"
