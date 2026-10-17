@@ -1,6 +1,6 @@
 cask "writeless" do
-  version "2.0.1"
-  sha256 "4ba1a2fa91b7c294cf61715fa1723ff7f99d946ae900d2ad1f0311ba6f835564"
+  version "2.1.0"
+  sha256 "3d5f757669bf315276004697841c6f07469ab840ae6c5743da2a6b88ec6fafcd"
 
   url "https://github.com/romus/writeless-macos/releases/download/v#{version}/Writeless-#{version}.zip"
   name "Write Less"
